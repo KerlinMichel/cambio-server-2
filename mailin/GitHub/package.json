@@ -1,0 +1,16 @@
+{
+  "name": "cambio-mail",
+  "version": "0.0.0",
+  "description": "An express/mailin/nodemailer server that does shit.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Angelo Saraceno <asara019@fiu.edu>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "mailin": "^3.0.0",
+    "nodemailer": "2.3.0",
+    "nodemon": "1.9.1",
+    "socket.io": "~0.9.14"
+  }
+}
